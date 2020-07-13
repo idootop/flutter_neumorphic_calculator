@@ -1,6 +1,3 @@
-# flutter_neumorphic_calculator
-
-
 <p align="center">
 <img width="128" src="screenshots/cal.png" >
 </p>
@@ -13,11 +10,11 @@
 
 # 简介 
 
-This is a neumorphic style calculator, it's just one of my Flutter interface practice projects, interface ideas and inspiration From the [Calculator UI by Duncan Ross](https://dribbble.com/shots/10076573-Calculator-UI).
+This is a neumorphic style calculator, it's just one of my Flutter interface practice projects, interface ideas and inspiration From the [Calculator UI by Duncan Ross](https://dribbble.com/shots/10076573-Calculator-UI)
 
-这是一个新拟态风格的计算器，它只是我的一个Flutter界面练习项目，界面创意与灵感来自于[Calculator UI by Duncan Ross](https://dribbble.com/shots/10076573-Calculator-UI) 。
+这是一个新拟态风格的计算器，它只是我的一个Flutter界面练习项目，界面创意与灵感来自于[Calculator UI by Duncan Ross](https://dribbble.com/shots/10076573-Calculator-UI) 
 
-![](screenshots/1.jpg)。
+![](screenshots/1.jpg)
 
 # 预览
 
