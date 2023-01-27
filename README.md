@@ -19,11 +19,9 @@ This is a neumorphic style calculator, UI inspiration From the [Calculator UI by
 |  ![](screenshots/1.jpg) |  ![](screenshots/2.jpg) |  ![](screenshots/3.jpg)  |
 | :------------: | :------------: | :------------: | 
 
-# 获取软件
+# 在线预览
 
-该应用已上架酷安，下载地址：
-https://www.coolapk.com/apk/com.cat.calculator
-
+https://cal.xbox.work
 
 # 免责声明
 
